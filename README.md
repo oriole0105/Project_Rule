@@ -43,7 +43,8 @@ Common Rule
 
 * Don't use "TAB". Use whitespace replace it.
 * Indent as 4 whitespace.
-** example 1
+* example 1
+
 
     if ( condition1 )
     begin
@@ -58,7 +59,9 @@ Common Rule
         a = 1;
     end
 
-** example 2
+
+* example 2
+
 
     if ( condition1 ) begin
         a = b;
