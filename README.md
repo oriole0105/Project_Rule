@@ -3,24 +3,34 @@ Project Rule
 ============
 
 Those rules are created for project management.
-Don't violate those rule.
+All members shoule follow this rules.
 
 Rule Maker
 ==========
 
-Richard Luo
+* Richard Luo ( richard_luo@phison.com )
 
 Rule Groups
 ===========
 
 * File
-* Coding
+* Coding Style
+** Common rule
 
 File
 ====
 
-* One module one file
-* File name MUST the same as the module name
+* one module per file
+* filename MUST the same as the module name
+
+Coding Style
+============
+
+Common Rule
+-----------
+
+* Don't use "TAB". Use whitespace replace it.
+
 
 
 
