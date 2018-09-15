@@ -27,7 +27,7 @@ Rule Groups
 
 * File
 * Verilog Coding Style
-** Common rule
+ * Common rule
 
 File
 ====
