@@ -17,11 +17,13 @@ code-block-font-size: \scriptsize
 ---
 
 
-
+* Typora Only Feature for title
 <div style="text-align:center;font-size:2em;">Typora學習記錄</div>
 <div style="text-align:center;font-size:1.4em;">練習是必要的</div><br />
 <div style="text-align:center;font-size:1.2em;">Richard Luo (richard_luo@phison.com)</div>
 <div style="text-align:center;font-size:1.2em;">2019/11/30</div><br /><br />
+
+
 # Typora 學習記錄
 
 
@@ -147,9 +149,9 @@ Then, anywhere in the document, you define your link label on a line by itself l
 
 ### 數學工具 / Latex 語法
 
+* Typora Only Feature for Latex
+$Latex$
 
-
-$ Latex$
 $$
 -\frac{1}{m}=\frac{\sum_{i=1}^n{X_iY_i}-\frac{1}{n}\sum_{i=1}^n{X_i\sum_{i=1}^n{Y_i}}}{\sum_{i=1}^n{X_{i}^{2}-\frac{1}{n}\left(\sum_{i=1}^n{X_i}\right)^2}}\\
  
@@ -164,6 +166,7 @@ $$
 ### Table of Content
 
 範例：
+* Typora Only Feature for TOC
 [TOC]
 
 ```markdown
@@ -173,8 +176,9 @@ $$
 
 
 <div style="page-break-after: always;"></div> 
-### 流程圖
 
+### 流程圖
+* Typora Only Feature for flow chart
 ```flow
 // define state
 st=>start: Start:>http://www.google.com[blank]
@@ -195,7 +199,7 @@ cond(no)->sub1(right)->op1
 ### Sequence Diagram
 
 
-
+* Typora Only Feature for Sequence
 ```
 '''sequence
 Alice->Bob: Hello Bob, how are you?
